@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4a6c5ce8cd03f549a9dc19e39b4167b, type: 3}
+  m_Name: Navigation
+  m_EditorClassIdentifier: 
+  timePerGame: 3
+  loadScreenSceneName: LoadScreen
+  loadLayout: {fileID: 3993575539233372706, guid: b917a450a0abd924d9258b1bedd1fc71,
+    type: 3}
+  gameCollection: {fileID: 11400000, guid: 596bdbdfee2687e448c421df78036a34, type: 2}
